@@ -1,0 +1,81 @@
+<<<<<<< HEAD
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.history
+/.vscode
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+=======
+# Global
+.*.swp
+.idea
+.DS_Store
+
+# Application# Global
+.*.swp
+.idea
+.DS_Store
+
+# Application
+web/app/doc/
+web/app/report/
+web/data/
+data/*
+web/vendor
+web/composer.lock
+web/storage/framework/cache/*
+web/storage/framework/sessions/*
+web/storage/framework/testing/*
+web/storage/framework/views/*
+web/storage/logs/*
+etc/ssl/*
+
+
+# PHPStorm
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Netbeans
+nbproject/
+/nbproject/
+/nbproject/private/
+/nbproject/private/private.properties
+
+# SSL Certs
+etc/ssl/
+web/app/doc/
+web/app/report/
+web/data/
+data/*
+web/vendor
+web/composer.lock
+web/storage/framework/cache/*
+web/storage/framework/sessions/*
+web/storage/framework/testing/*
+web/storage/framework/views/*
+web/storage/logs/*
+etc/ssl/*
+
+
+# PHPStorm
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Netbeans
+nbproject/
+/nbproject/
+/nbproject/private/
+/nbproject/private/private.properties
+
+# SSL Certs
+etc/ssl/
+>>>>>>> becece7a8fc31b5b3e133b132d922d25c5b84e68
